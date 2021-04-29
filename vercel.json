@@ -46,6 +46,6 @@
     "GITHUB_CLIENT_ID": "shebas123",
     "GITHUB_CLIENT_SECRET": "shebas123",
     "MONGODB_ATLAS_URI": "shebas123",
-    "STRIPE_SECRET": "@vrs-stripe-secret"
+    "STRIPE_SECRET": "shebas123"
   }
 }
