@@ -92,9 +92,9 @@ export default function Nav({
             </Link>
             <a
               className="link dim white dib mr3 v-mid"
-              href="https://github.com/zeit/vrs"
+              href="https://varchitect.co/"
               target="_blank"
-              title="GitHub"
+              title="Varchitect"
             >
               GitHub
             </a>
