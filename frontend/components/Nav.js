@@ -96,7 +96,7 @@ export default function Nav({
               target="_blank"
               title="Varchitect"
             >
-              GitHub
+              Varchitect
             </a>
             <a
               className="link dim white dib mr3 v-mid"
